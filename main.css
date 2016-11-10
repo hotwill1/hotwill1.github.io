@@ -7,11 +7,12 @@ h1 {
     text-align: center;
 }
 h2 { 
-color: white}
+color: white;
+}
 p {
     font-family: verdana;
     font-size: 25;
-    color:cyan
+    color: cyan;
 }
 html {
 background: #505D6E url("http://images.akamai.steamusercontent.com/ugc/528386713450475264/56E49FD2A7F1E89D4DFF0E56B5891EC144A48738/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside%7C1024:1024&composite-to%3D*%2C*%7C1024%3A1024&background-color=black") no-repeat center center fixed;
