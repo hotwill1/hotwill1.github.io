@@ -5,17 +5,19 @@ div.top{
     border: none;
     padding: 15px;
 }
-div.menu {
-    width: 25%;
-    float: left;
-    padding: 15px;
-    border: none;
-}
 div.main {
     width: 75%;
     float: left;
     padding: 15px;
     border: none;
+}
+    div.menu {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    border: none;
+}
+
 
 
 
